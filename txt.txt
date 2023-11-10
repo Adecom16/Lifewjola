@@ -1,0 +1,424 @@
+      <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i data-feather="x"></i></span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row align-items-center">
+
+                            <div class="col-lg-6">
+                                <div class="portfolio-popup-thumbnail">
+                                    <div class="image">
+                                        <!-- <h2>Lifewjola</h2> -->
+                                        <img class="w-100" src="assets/images/portfolio/portfolio-04.jpg" alt="slide">
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="text-content">
+                                    <h3>
+                                        <span>Featured - Design</span> App Design Development.
+                                    </h3>
+                                    <p class="mb--30">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate distinctio assumenda explicabo veniam temporibus eligendi.</p>
+                                    <p>Consectetur adipisicing elit. Cupiditate distinctio assumenda. dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!</p>
+                                    <div class="button-group mt--20">
+                                        <a href="#" class="rn-btn thumbs-icon">
+                                            <span>LIKE THIS</span>
+                                            <i data-feather="thumbs-up"></i>
+                                        </a>
+                                        <a href="#" class="rn-btn">
+                                            <span>VIEW PROJECT</span>
+                                            <i data-feather="chevron-right"></i>
+                                        </a>
+                                    </div>
+
+                                </div>
+                                <!-- End of .text-content -->
+                            </div>
+                        </div>
+                        <!-- End of .row Body-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+          <div class="rn-pricing-area rn-section-gap section-separator" id="pricing">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-xl-5 mb_md--40 mb_sm--40 small-margin-pricing">
+                        <div class="d-block d-lg-flex text-center d-lg-left section-flex flex-wrap align-content-start h-100">
+                            <div class="position-sticky sticky-top rbt-sticky-top-adjust">
+                                <div class="section-title text-left">
+                                    <span class="subtitle text-center text-lg-left">Pricing</span>
+                                    <h2 class="title text-center text-lg-left">My Pricing</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-8 col-xl-7">
+                        <!-- Pricing Area -->
+                        <div class="navigation-wrapper">
+                            <ul class="nav " id="myTab" role="tablist">
+                                <li class="nav-item ">
+                                    <a class="nav-style" id="test-tab" data-bs-toggle="tab" href="#test" role="tab" aria-controls="test" aria-selected="false">Static</a>
+                                </li>
+
+                                <li class="nav-item  recommended">
+                                    <a class="nav-style active" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="true">Standard</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-style" id="contact-tab" data-bs-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Premium</a>
+                                </li>
+                            </ul>
+                            <div class="tab-content" id="myTabContent">
+
+                                <div class="tab-pane fade " id="test" role="tabpanel" aria-labelledby="test-tab">
+                                    <!-- Pricing Start -->
+                                    <div class="rn-pricing">
+                                        <div class="pricing-header">
+                                            <div class="header-left">
+                                                <h2 class="title">Make Your Single Page</h2>
+                                                <span>Elementor</span>
+                                            </div>
+                                            <div class="header-right">
+                                                <span>$30.00</span>
+                                            </div>
+                                        </div>
+                                        <div class="pricing-body">
+                                            <p class="description">
+                                                All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary
+                                            </p>
+                                            <div class="check-wrapper">
+                                                <div class="left-area">
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>1 Page with Elementor</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Customization</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Responsive Design</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Content Upload</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Customization</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>2 Plugins/Extensions</p>
+                                                    </div>
+                                                </div>
+                                                <div class="right-area">
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>multipage Elementor</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Figma</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>MAintaine Design</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Content Upload</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design With XD</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>8 Plugins/Extensions</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="pricing-footer">
+                                            <a href="#" class="rn-btn d-block">
+                                                <span>ORDER NOW</span>
+                                                <i data-feather="arrow-right"></i>
+                                            </a>
+                                            <div class="time-line">
+                                                <div class="single-cmt d-flex">
+                                                    <i data-feather="clock"></i>
+                                                    <span>2 Days Delivery</span>
+                                                </div>
+                                                <div class="single-cmt d-flex">
+                                                    <i data-feather="activity"></i>
+                                                    <span>Unlimited Revission</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End -->
+                                </div>
+
+                                <div class="tab-pane fade show active" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                                    <!-- Pricing Start -->
+                                    <div class="rn-pricing">
+                                        <div class="pricing-header">
+                                            <div class="header-left">
+                                                <h2 class="title">Design Make this Page</h2>
+                                                <span>Elementor</span>
+                                            </div>
+                                            <div class="header-right">
+                                                <span>$50.00</span>
+                                            </div>
+                                        </div>
+                                        <div class="pricing-body">
+                                            <p class="description">
+                                                Making this the first true generator on the Internet. It uses a dictionary & plugin Development.
+                                            </p>
+                                            <div class="check-wrapper">
+                                                <div class="left-area">
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>1 Page with Elementor</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Customization</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Responsive Design</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Content Upload</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Customization</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>2 Plugins/Extensions</p>
+                                                    </div>
+                                                </div>
+                                                <div class="right-area">
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>multipage Elementor</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Figma</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>MAintaine Design</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Content Upload</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design With XD</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>8 Plugins/Extensions</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="pricing-footer">
+                                            <a href="#" class="rn-btn d-block">
+                                                <span>ORDER NOW</span>
+                                                <i data-feather="arrow-right"></i>
+                                            </a>
+                                            <div class="time-line d-flex">
+                                                <div class="single-cmt d-flex">
+                                                    <i data-feather="clock"></i>
+                                                    <span>2 Days Delivery</span>
+                                                </div>
+                                                <div class="single-cmt d-flex">
+                                                    <i data-feather="activity"></i>
+                                                    <span>Unlimited Revission</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End -->
+                                </div>
+
+                                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                                    <!-- Pricing Start -->
+                                    <div class="rn-pricing">
+                                        <div class="pricing-header">
+                                            <div class="header-left">
+                                                <h2 class="title">Customize Your Single Page</h2>
+                                                <span>Elementor</span>
+                                            </div>
+                                            <div class="header-right">
+                                                <span>$90.00</span>
+                                            </div>
+                                        </div>
+                                        <div class="pricing-body">
+                                            <p class="description">
+                                                I will install your desire theme and made like Theme demo and customize your single page( homepage)
+                                            </p>
+                                            <div class="check-wrapper">
+                                                <div class="left-area">
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>1 Page with Elementor</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Customization</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Responsive Design</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Content Upload</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Customization</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>2 Plugins/Extensions</p>
+                                                    </div>
+                                                </div>
+                                                <div class="right-area">
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>multipage Elementor</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design Figma</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>MAintaine Design</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Content Upload</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>Design With XD</p>
+                                                    </div>
+                                                    <div class="check d-flex">
+                                                        <i data-feather="check"></i>
+                                                        <p>8 Plugins/Extensions</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="pricing-footer">
+                                            <a href="#" class="rn-btn d-block">
+                                                <span>ORDER NOW</span>
+                                                <i data-feather="arrow-right"></i>
+                                            </a>
+                                            <div class="time-line d-flex">
+                                                <div class="single-cmt d-flex">
+                                                    <i data-feather="clock"></i>
+                                                    <span>2 Days Delivery</span>
+                                                </div>
+                                                <div class="single-cmt d-flex">
+                                                    <i data-feather="activity"></i>
+                                                    <span>Unlimited Revission</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+           <div class="modal fade" id="exampleModalCenters" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-news" role="document">
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i data-feather="x"></i></span>
+                        </button>
+                    </div>
+
+                    <!-- End of .modal-header -->
+
+                    <!-- <div class="modal-body">
+                        <img src="assets/images/blog/blog-big-01.jpg" alt="news modal" class="img-fluid modal-feat-img">
+                        <div class="news-details">
+                            <span class="date">2 May, 2021</span>
+                            <h2 class="title">Digital Marketo to Their New Office.</h2>
+                            <p>Nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores
+                                legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+                            <h4>Nobis eleifend option conguenes.</h4>
+                            <p>Mauris tempor, orci id pellentesque convallis, massa mi congue eros, sed posuere massa nunc quis dui. Integer ornare varius mi, in vehicula orci scelerisque sed. Fusce a massa nisi. Curabitur sit amet suscipit nisl. Sed eget
+                                nisl laoreet, suscipit enim nec, viverra eros. Nunc imperdiet risus leo, in rutrum erat dignissim id.</p>
+                            <p>Ut rhoncus vestibulum facilisis. Duis et lorem vitae ligula cursus venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vitae nisi tortor. Morbi leo nulla, posuere vel
+                                lectus a, egestas posuere lacus. Fusce eleifend hendrerit bibendum. Morbi nec efficitur ex.</p>
+                            <h4>Mauris tempor, orci id pellentesque.</h4>
+                            <p>Nulla non ligula vel nisi blandit egestas vel eget leo. Praesent fringilla dapibus dignissim. Pellentesque quis quam enim. Vestibulum ultrices, leo id suscipit efficitur, odio lorem rhoncus dolor, a facilisis neque mi ut ex.
+                                Quisque tempor urna a nisi pretium, a pretium massa tristique. Nullam in aliquam diam. Maecenas at nibh gravida, ornare eros non, commodo ligula. Sed efficitur sollicitudin auctor. Quisque nec imperdiet purus, in ornare
+                                odio. Quisque odio felis, vestibulum et.
+                            </p>
+                        </div>
+
+                        <!-- Comment Section Area Start -->
+                        <!-- <div class="comment-inner">
+                            <h3 class="title mb--40 mt--50">Leave a Reply</h3>
+                            <form action="#">
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-12 col-12">
+                                        <div class="rnform-group"><input type="text" placeholder="Name">
+                                        </div>
+                                        <div class="rnform-group"><input type="email" placeholder="Email">
+                                        </div>
+                                        <div class="rnform-group"><input type="text" placeholder="Website">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-12 col-12">
+                                        <div class="rnform-group">
+                                            <textarea placeholder="Comment"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <a class="rn-btn" href="#"><span>SUBMIT NOW</span></a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div> -->
+                        <!-- Comment Section End -->
+                    </div> -->
+                    <!-- End of .modal-body -->
+                </div>
+            </div>
